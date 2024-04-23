@@ -40,7 +40,7 @@
       force_apt_get: true
       update_cache: true
 
-  - name: "Install Cloud Init"
+  - name: "Installing Cloud-init."
     apt:
       name: cloud-init
       state: latest
