@@ -18,6 +18,6 @@ vm_guest_os_type      = "rhel8_64Guest"
 vm_firmware              = "efi-secure"
 
 // Removable Media Settings
-iso_datastore_path       = "iso/linux/rhel"
+iso_datastore_path       = "iso/linux/red-hat-enterprise-linux"
 iso_content_library_item = "rhel-8.9-x86_64-dvd"
 iso_file                 = "rhel-8.9-x86_64-dvd.iso"
